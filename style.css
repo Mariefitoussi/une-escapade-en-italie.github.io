@@ -1,0 +1,88 @@
+body{
+	background: white;
+	text-align: center;
+}
+
+h1 {
+	color: #BFE2F5;
+	font-family: lovelo
+}
+
+h3, ul {
+	text-align: center;
+	color: #BFE2F5;
+	font-family: lovelo
+}
+
+.div {
+	background: lightgreen;
+
+}
+.avatar {
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+	border: 10px solid black;
+	box-shadow: 10px 10px 10px grey;
+}
+
+.img-galery {
+	border-radius: 15px;
+}
+
+.frame{
+	border:4px black;
+	margin: 50px auto;
+	padding: 50px;
+	width: 400px;
+}
+
+
+}
+
+.gal{
+	border:4px dashed blue;
+	margin: 50px auto;
+	padding: 50px;
+	width: 400px;
+}
+
+.drapeau {
+	
+	height: 70px;
+	width: 90px;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+
+.green {
+	background: green;
+	height: 70px;
+	width: 30px;
+}
+.white {
+	background: white;
+	height: 70px;
+	width: 30px;
+}
+.red{
+	background: red;
+	height: 70px;
+	width: 30px;
+}
+
+.mynavbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #BFE2F5;
+
+
+
+.texte1 {
+	text-align: left;
+}
